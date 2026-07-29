@@ -1,0 +1,56 @@
+# OS / System Clutter
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Node.js & Dependency Managers
+node_modules/
+.npm/
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Quartz Build & AST Caches
+public/
+.quartz/
+.quartz-cache/
+.turbo/
+prof/
+tsconfig.tsbuildinfo
+
+# Obsidian Local Workspace Settings (Recursive)
+**/.obsidian/
+**/.trash/
+SettingProfiles/
+*.excalidraw
+.obsidian/
+
+# Local Environment Secrets & Configuration overrides
+.env
+.env.local
+.env.*.local
+.replit
+replit.nix
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.tmp
+*~
+
+# Temporary Directories
+temp_quartz/
+
+conductor/
