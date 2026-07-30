@@ -9,7 +9,7 @@ export const TagPublish: QuartzFilterPlugin<{ tag: string }> = (userOpts) => {
     tag: "garden", // Default tag to look for
     ...userOpts,
   }
-  
+
   return {
     name: "TagPublish",
     shouldPublish(_ctx, [_tree, vfile]) {
