@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null # 🔒 Disabled (No Analytics)
   locale: en-US
-  baseUrl: your-username.github.io/your-repo-name # Change to your actual GitHub Pages URL
+  baseUrl: michelepagot.github.io/praticello-delle-idee # Change to your actual GitHub Pages URL
   ignorePatterns:
     - templates
     - .obsidian
@@ -15,7 +15,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Schibsted Grotesk # Elegant sans-serif
-      body: Source Sans Pro     // Clear and highly readable
+      body: Source Sans Pro # Clear and highly readable
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -174,7 +174,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/your-username/your-repo-name
+        GitHub: https://github.com/michelepagot/praticello-delle-idee
     layout:
       position: footer
       priority: 50
